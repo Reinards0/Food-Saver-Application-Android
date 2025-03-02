@@ -1,4 +1,23 @@
-This is my group project for my thesis at BINUS University.
+Food Saver App  
+Mobile App / Android Development
+  
+Food Saver App is a marketplace platform designed to reduce food waste by allowing users to sell surplus food at affordable prices. The app connects sellers with buyers in their local area, promoting sustainability and reducing unnecessary waste. This project was successfully developed as my S1 thesis, demonstrating my skills in mobile app development, backend integration, and database management.    
 
 
-<img src="https://github.com/user-attachments/assets/f6b7f514-5ef0-4a3a-9e04-f737b2a0e5e5" width="480">
+Technologies Used:  
+- Android Studio (Kotlin + Java)  
+- OpenStreetMap  
+- Firebase Database  
+
+My Contributions:  
+- Designed the User Activity Diagram to map out the user journey.  
+- Developed the seller role functionality, including both backend and frontend components.  
+- Integrated and managed the Firebase database to store user and transaction data.  
+
+
+
+<img src="https://github.com/Reinards0/Food-Saver-Application-Android/blob/main/Food%20Saver/AppScreens/CustomerMainActivity-Home.PNG" width="480">
+<img src="https://github.com/Reinards0/Food-Saver-Application-Android/blob/main/Food%20Saver/AppScreens/SellerMainActivity-Home.PNG" width="480">
+<img src="https://github.com/Reinards0/Food-Saver-Application-Android/blob/main/Food%20Saver/AppScreens/ProductActivity.PNG" width="480">
+<img src="https://github.com/Reinards0/Food-Saver-Application-Android/blob/main/Food%20Saver/AppScreens/SellerMainActivity-Article.PNG" width="480">
+<img src="https://github.com/Reinards0/Food-Saver-Application-Android/blob/main/Food%20Saver/AppScreens/PayOut.PNG" width="480">
